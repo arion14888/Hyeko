@@ -782,7 +782,7 @@ class Hikka:
 
             await client.hikka_inline.bot.send_animation(
                 logging.getLogger().handlers[0].get_logid_by_client(client.tg_id),
-                https://0x0.st/s/tZe2xC6doBkhc_qpT-cIqg/8oqa.jpg",
+                "https://0x0.st/s/tZe2xC6doBkhc_qpT-cIqg/8oqa.jpg",
                 caption=(
                     "<b>Hyeko {} started!</b>\n\n🌳 <b>GitHub commit SHA: <a"
                     ' href="https://github.com/hikariatama/Hikka/commit/{}">{}</a></b>\n✊'
